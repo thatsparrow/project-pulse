@@ -1,0 +1,8 @@
+Metadata-Version: 1.0
+Name: pulse
+Version: 1.0.0
+Summary: A chatbot using Natural Language Processing (NLP)
+Home-page: https://thatsparrow.github.io
+Author: thatsparrow
+Author-email: thatsparrow@protonmail.ch
+License: MIT
